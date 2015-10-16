@@ -1,2 +1,2 @@
-mylist = ['[Hello world, 42]']
-print ','.join(mylist)
+mylist = ['Hello world',42]
+print(mylist)
