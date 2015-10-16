@@ -8,4 +8,3 @@ phantom_menace = ("""Turmoil has engulfed the Galactic Republic. The\
  peace and justice in the galaxy, to settle the conflict""")
 len(phantom_menace)
 print(len(phantom_menace))
-
