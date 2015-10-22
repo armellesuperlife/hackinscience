@@ -1,2 +1,2 @@
 import math
-math.factorial(27)
+math. factorial(27)
