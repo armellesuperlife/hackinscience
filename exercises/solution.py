@@ -1,2 +1,1 @@
-for i in range (99):
-    print("Hello World") 
+2+2 != 5
