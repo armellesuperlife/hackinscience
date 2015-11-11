@@ -1,6 +1,6 @@
 import sys
 x = len(sys.argv)
- if x == 2:
+if x == 2:
     print(sys.argv[1])
- else: 
+else: 
     print("usage: python3 solution.py PARAM")
