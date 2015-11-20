@@ -2,9 +2,9 @@ from time import gmtime, strftime
 a == "Today is "
 b == strftime("%Y")
 c == "-"
-d == strftime"%m"
+d == strftime("%m")
 e == "-"
-f == strftime"%d"
+f == strftime("%d")
 g == " and it is "
-h == strftime"%X"
+h == strftime("%X")
 print(a + b + c + d + e + f + g + h)
