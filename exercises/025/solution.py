@@ -1,4 +1,10 @@
 from time import gmtime, strftime
-print("Today is " + strftime("%Y") + "-" 
- + strftime("%m") + "-" + strftime("%d")
- + " and it is " + strftime("%X"))
+a == "Today is "
+b == strftime("%Y")
+c == "-"
+d == strftime"%m"
+e == "-"
+f == strftime"%d"
+g == " and it is "
+h == strftime"%X"
+print(a + b + c + d + e + f + g + h)
