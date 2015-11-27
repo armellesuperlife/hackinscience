@@ -1,5 +1,3 @@
-import maths 
 def sqrt(num):
-S = 0
-S = sqrt(num)
-return S
+    S = num**(0.5)
+    return(S)
