@@ -1,3 +1,4 @@
 def sort_a_list(l):
-    sorted(l, reverse=True)
-    return l
+    l.reverse()
+return l
+    
